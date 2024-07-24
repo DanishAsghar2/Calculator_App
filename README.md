@@ -1,8 +1,11 @@
 Scientific Calculator Web App
+
 Description
+
 Welcome to the Scientific Calculator Web App! This project is a fully functional scientific calculator built using HTML, CSS, and JavaScript. It is designed to provide users with a wide range of mathematical functions, from basic arithmetic operations to complex scientific calculations.
 
 Features
+
 Basic Arithmetic Operations: Addition, Subtraction, Multiplication, and Division.
 Advanced Scientific Functions:
 Trigonometric functions: Sine, Cosine, Tangent, and their inverses.
@@ -19,6 +22,7 @@ Clear and All Clear buttons for easy correction of input.
 Accessibility and Ease of Use:
 Keyboard support for quick input.
 Buttons styled as clickable links for easy navigation to my GitHub and LinkedIn profiles.
+
 Technologies Used
 HTML: Structure of the web app.
 CSS: Styling and layout of the web app.
@@ -29,7 +33,6 @@ The purpose of this project is to provide a comprehensive and easy-to-use tool f
 Author
 This project was created by Danish Asghar. You can find more about my work and connect with me on:
 
-GitHub
-LinkedIn
 Contributions
+
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
