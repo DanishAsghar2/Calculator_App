@@ -1,38 +1,123 @@
-Scientific Calculator Web App
+# Calculator App
 
-Description
+## Overview
 
-Welcome to the Scientific Calculator Web App! This project is a fully functional scientific calculator built using HTML, CSS, and JavaScript. It is designed to provide users with a wide range of mathematical functions, from basic arithmetic operations to complex scientific calculations.
+This repository contains a simple calculator application built with modern web technologies. The app features basic arithmetic operations and a user-friendly interface.
 
-Features
+## Features
 
-Basic Arithmetic Operations: Addition, Subtraction, Multiplication, and Division.
-Advanced Scientific Functions:
-Trigonometric functions: Sine, Cosine, Tangent, and their inverses.
-Logarithmic functions: Natural logarithm (ln) and base-10 logarithm (log).
-Exponential functions: Power and Square root.
-Factorial calculation.
-User-Friendly Interface:
-Responsive design for optimal use on both desktop and mobile devices.
-Intuitive button layout for easy operation.
-Clear display for input and results.
-Additional Features:
-Memory functions: Memory recall, Memory clear, Memory add, and Memory subtract.
-Clear and All Clear buttons for easy correction of input.
-Accessibility and Ease of Use:
-Keyboard support for quick input.
-Buttons styled as clickable links for easy navigation to my GitHub and LinkedIn profiles.
+- **Basic Arithmetic Operations**: Addition, subtraction, multiplication, and division.
+- **Responsive Design**: Works on various screen sizes.
+- **User-Friendly Interface**: Simple and intuitive design.
 
-Technologies Used
-HTML: Structure of the web app.
-CSS: Styling and layout of the web app.
-JavaScript: Functionality and interactivity of the calculator.
-Purpose
-The purpose of this project is to provide a comprehensive and easy-to-use tool for performing a variety of mathematical calculations. It is ideal for students, educators, engineers, and anyone who needs a reliable and accessible calculator. This project also serves as a demonstration of web development skills using HTML, CSS, and JavaScript.
+## Prerequisites
 
-Author
-This project was created by Danish Asghar. You can find more about my work and connect with me on:
+Before you begin, ensure you have met the following requirements:
 
-Contributions
+- **Node.js** (v12 or higher)
+- **NPM** (v6 or higher)
 
-Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
+# Calculator App
+
+## How to Set Up the Project
+
+1. Clone the Repository:
+
+    ```bash
+    git clone https://github.com/DanishAsghar2/Calculator_App.git
+    ```
+
+2. Navigate to the Project Directory:
+
+    ```bash
+    cd Calculator_App
+    ```
+
+3. Install the necessary dependencies:
+
+    ```bash
+    npm install
+    ```
+
+4. Start the development server:
+
+    ```bash
+    npm start
+    ```
+
+    This command will start the app and open it in your default web browser.
+
+## Production Build
+
+To create a production build of the app:
+
+    ```bash
+    npm run build
+    ```
+
+    This command generates a production-ready version of the application.
+
+## Linting
+
+To lint and fix issues in your code:
+
+    ```bash
+    npm run lint
+    ```
+
+    This ensures your code adheres to coding standards.
+
+## Testing
+
+To run tests for the application:
+
+    ```bash
+    npm test
+    ```
+
+    This command runs the test suite and reports any issues.
+
+## Deployment
+
+To deploy the app to a hosting service (e.g., Vercel, Netlify):
+
+1. Build the project:
+
+    ```bash
+    npm run build
+    ```
+
+2. Follow the deployment instructions for your chosen hosting service.
+
+## Customization
+
+You can customize the calculator’s appearance and functionality by editing the following files:
+
+- **`src/App.js`**: Main component containing the calculator logic.
+- **`src/styles.css`**: CSS file for styling the application.
+
+## Contributing
+
+Contributions are welcome! Follow these steps to contribute:
+
+1. Fork the repository.
+
+2. Create a new branch:
+
+    ```bash
+    git checkout -b feature-name
+    ```
+
+3. Make your changes and commit:
+
+    ```bash
+    git commit -m 'Add a new feature'
+    ```
+
+4. Push to the branch:
+
+    ```bash
+    git push origin feature-name
+    ```
+
+5. Submit a Pull Request.
